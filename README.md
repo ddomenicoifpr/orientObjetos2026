@@ -20,6 +20,6 @@
 ---
 
 <p align="center">
-  <sub>© 2025 Instituto Federal do Paraná - Campus Foz do Iguaçu</sub>
+  <sub>© 2026 Instituto Federal do Paraná - Campus Foz do Iguaçu</sub>
 </p>
 
